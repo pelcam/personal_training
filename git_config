@@ -1,4 +1,3 @@
 #/bin/bash
-
 git config --global user.email "YObY0ntfWsNZdceSM8hJDU5GgA813o1VMm6A@github.com"
 git config --global user.name "pelcam"
